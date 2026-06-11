@@ -358,7 +358,7 @@ Data Analyst | Google Certified | BFSI Domain Expert
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/priyanka-mishra-data-analyst/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/data-by-priyanka)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?logo=github)](datascienceportfol.io/priyankaofficial)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?logo=github)](https://www.datascienceportfol.io/priyankaofficial)
 
 ---
 

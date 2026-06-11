@@ -7,7 +7,7 @@
 [![MySQL](https://img.shields.io/badge/MySQL-8.0-orange?logo=mysql)](https://mysql.com)
 [![PowerBI](https://img.shields.io/badge/PowerBI-Desktop-yellow?logo=powerbi)](https://powerbi.microsoft.com)
 [![Excel](https://img.shields.io/badge/Microsoft-Excel-green?logo=microsoftexcel)](https://microsoft.com/excel)
-[![Google Certificate](https://img.shields.io/badge/Google-Advanced%20Data%20Analytics-green?logo=google)]([https://coursera.org](https://coursera.org/share/2190d84b7adf590d7839050bbe307f18))
+
 
 </div>
 

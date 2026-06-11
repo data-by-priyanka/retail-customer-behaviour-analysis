@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🛍️ Retail Customer Behaviour Analysis
+#   Retail Customer Behaviour Analysis
 ### Revenue Optimization & Customer Segmentation — End-to-End Data Analytics Project
 
 [![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)](https://python.org)
@@ -283,13 +283,13 @@ With Discount →  AOV $59.28  ⚠️ DISCOUNTS REDUCE SPENDING
 > Shows: Loyal Customers KPI, New Customers KPI, 
 > Loyal Not Subscribed KPI, Discount Margin Lost KPI,
 > Customer Segmentation, Discount Impact, Promo Analysis
-> 📂 File: `dashboard/retail_customer_behaviour_analysis.pbix`
+>   File: `dashboard/retail_customer_behaviour_analysis.pbix`
 
 ---
 
 ## Top 5 Recommendations
 
-### 🥇 Recommendation 1 — Fix Subscription Messaging
+###   Recommendation 1 — Fix Subscription Messaging
 **Insight:** 2,583 loyal customers are not subscribed. 
 Subscribers actually spend LESS — meaning the value proposition is wrong.
 
@@ -302,7 +302,7 @@ Subscribers actually spend LESS — meaning the value proposition is wrong.
 
 ---
 
-### 🥈 Recommendation 2 — Launch Customer Referral Program
+###   Recommendation 2 — Launch Customer Referral Program
 **Insight:** Only 83 new customers (2.1%) — zero acquisition pipeline.
 
 **Action:**
@@ -314,7 +314,7 @@ Subscribers actually spend LESS — meaning the value proposition is wrong.
 
 ---
 
-### 🥉 Recommendation 3 — Cross-Sell Accessories to Clothing Buyers
+###   Recommendation 3 — Cross-Sell Accessories to Clothing Buyers
 **Insight:** Clothing = 44.7% of revenue but creates concentration risk.
 
 **Action:**
@@ -326,7 +326,7 @@ Subscribers actually spend LESS — meaning the value proposition is wrong.
 
 ---
 
-### 4️⃣ Recommendation 4 — Stop Blanket Discounts
+###    Recommendation 4 — Stop Blanket Discounts
 **Insight:** Discounts reduce AOV by $0.85 — negative ROI proven.
 
 **Action:**
@@ -338,7 +338,7 @@ Subscribers actually spend LESS — meaning the value proposition is wrong.
 
 ---
 
-### 5️⃣ Recommendation 5 — Create 51+ Premium Loyalty Program
+###   Recommendation 5 — Create 51+ Premium Loyalty Program
 **Insight:** 51+ = 38% of revenue but receives zero targeted marketing.
 
 **Action:**
@@ -350,44 +350,6 @@ Subscribers actually spend LESS — meaning the value proposition is wrong.
 
 ---
 
-## How to Run This Project
-
-### 1️⃣ Clone the repository:
-```bash
-git clone https://github.com/data-by-priyanka/retail-customer-behaviour-analysis.git
-cd retail-customer-behaviour-analysis
-```
-
-### 2️⃣ Install Python dependencies:
-```bash
-pip install pandas numpy matplotlib seaborn jupyter mysql-connector-python
-```
-
-### 3️⃣ Run the Jupyter Notebook:
-```bash
-jupyter notebook notebooks/01_EDA_analysis.ipynb
-```
-
-### 4️⃣ Set up MySQL Database:
-```sql
-CREATE DATABASE retail_analysis;
-USE retail_analysis;
-```
-Then run the Python import script in the notebook to load data into MySQL.
-
-### 5️⃣ Run SQL Queries:
-```bash
-# Open in MySQL Workbench
-sql/analysis_queries.sql
-```
-
-### 6️⃣ Open Power BI Dashboard:
-
-dashboard/retail_customer_behaviour_analysis.pbix
-
-Open with Microsoft Power BI Desktop
-
----
 
 ## Author & Contact
 
@@ -396,7 +358,7 @@ Data Analyst | Google Certified | BFSI Domain Expert
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/priyanka-mishra-data-analyst/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/data-by-priyanka)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?logo=github)](https://data-by-priyanka.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?logo=github)](datascienceportfol.io/priyankaofficial)
 
 ---
 
